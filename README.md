@@ -1,6 +1,4 @@
-# Reward Transfer and Climate Robustness in
-Multi-Agent Reinforcement Learning for Urban
-Energy Control
+# Reward Transfer and Climate Robustness in Multi-Agent Reinforcement Learning for Urban Energy Control
 
 **Afia Murtaza · Maleeha Fatima · Salam Orabi**
 
