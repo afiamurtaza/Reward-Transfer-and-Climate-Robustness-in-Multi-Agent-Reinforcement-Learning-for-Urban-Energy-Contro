@@ -131,23 +131,23 @@ Run notebooks in the following order to reproduce results from scratch:
 
 ```
 1. CityLearn_MARL_Setup.ipynb
-      ↓  
 sets up environment, defines observation/action spaces
+      ↓  
 2. CityLearn_MARL_IPPO_MAPPO_Baseline.ipynb
-      ↓  
 trains fixed baseline, validates reward functions and pipeline
+      ↓  
 3. MARL_Energy_Control_Training.ipynb   (set SEED and RUN_INDEX per seed)
-      ↓  
 trains all 6 conditions for one seed; repeat for seeds 42, 2, 7
-4. CityLearn_UAE_Evaluation.ipynb
       ↓  
+4. CityLearn_UAE_Evaluation.ipynb
 loads trained models, runs zero-shot Dubai evaluation
+      ↓  
 5. Single_Seed_Analysis.ipynb
-      ↓ 
 produces per-condition KPI and transfer figures
-6. Multi_Seed_Summary.ipynb
       ↓ 
-aggregates across seeds, produces final paper figures & tables
+6. Multi_Seed_Summary.ipynb
+aggregates across seeds, produces final paper figures & tables 
+
 ```
 
 To skip training, pre-trained 250k model checkpoints are provided in `models/`.
