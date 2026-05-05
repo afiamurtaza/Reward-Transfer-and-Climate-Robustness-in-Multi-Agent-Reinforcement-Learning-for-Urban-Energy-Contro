@@ -1,0 +1,7 @@
+algorithm,reward_mode,reward_delta_pct,kpi_composite_delta_pct
+ippo,flat_shared,-405.732,-7.94
+ippo,local_individual,0.543,-6.668
+ippo,uae_weighted,-392.523,-7.092
+mappo,flat_shared,-483.119,-3.994
+mappo,local_individual,-12.319,-3.87
+mappo,uae_weighted,-444.565,-3.45

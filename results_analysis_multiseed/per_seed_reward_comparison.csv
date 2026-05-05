@@ -1,0 +1,8 @@
+algorithm,reward_mode,seed1,seed2,seed3,mean,std,range
+neutral,neutral,-266.34,-266.34,-266.34,-266.34,0.0,0.0
+ippo,local_individual,-265.37,-270.02,-267.97,-267.79,1.9,4.65
+mappo,local_individual,-277.23,-281.02,-280.47,-279.57,1.67,3.79
+mappo,uae_weighted,-280.9,-288.83,-286.18,-285.3,3.3,7.93
+mappo,flat_shared,-292.57,-294.57,-294.19,-293.78,0.87,2.0
+ippo,uae_weighted,-300.64,-292.26,-296.97,-296.62,3.43,8.38
+ippo,flat_shared,-306.51,-289.2,-296.38,-297.36,7.1,17.31

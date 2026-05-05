@@ -1,0 +1,3 @@
+algorithm,cost_total,carbon_emissions_total,discomfort_proportion,ramping_average,daily_one_minus_load_factor_average
+ippo,-17.87,-17.497,3.817,-9.523,4.907
+mappo,-3.763,-3.87,2.18,-11.923,-1.48

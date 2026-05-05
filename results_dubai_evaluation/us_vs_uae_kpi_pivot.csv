@@ -1,0 +1,10 @@
+kpi,,carbon_emissions_total,carbon_emissions_total,cost_total,cost_total,daily_one_minus_load_factor_average,daily_one_minus_load_factor_average,discomfort_proportion,discomfort_proportion,ramping_average,ramping_average
+climate,,UAE,US,UAE,US,UAE,US,UAE,US,UAE,US
+algorithm,reward_mode,,,,,,,,,,
+ippo,flat_shared,0.414,0.508,0.3948,0.4866,1.3959,1.344,0.9933,0.9433,0.8766,0.9903
+ippo,local_individual,0.3717,0.4487,0.3466,0.4161,1.4009,1.323,0.9942,0.971,0.7854,0.8514
+ippo,uae_weighted,0.4134,0.497,0.3922,0.4785,1.4024,1.3359,0.9929,0.9571,0.8918,0.9835
+mappo,flat_shared,0.4819,0.487,0.4549,0.4558,1.2748,1.3245,0.9863,0.9636,0.8025,0.9708
+mappo,local_individual,0.4371,0.4607,0.4051,0.431,1.3279,1.338,0.9884,0.9719,0.8236,0.9068
+mappo,uae_weighted,0.4315,0.4563,0.4086,0.4304,1.3254,1.3246,0.9937,0.9697,0.8385,0.924
+neutral,neutral,0.3616,0.43,0.3392,0.4024,1.4469,1.3722,0.9942,0.9727,0.8187,0.8734

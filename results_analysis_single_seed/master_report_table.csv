@@ -1,0 +1,7 @@
+algorithm,reward_mode,us_cost_total,us_discomfort_proportion,uae_cost_total,uae_discomfort_proportion,deg_cost_total,deg_discomfort_proportion,reward_delta_pct,kpi_composite_delta_pct
+ippo,flat_shared,0.4866,0.9433,0.3948,0.9933,-18.87,5.31,-405.73,-7.94
+ippo,local_individual,0.4161,0.971,0.3466,0.9942,-16.7,2.4,0.54,-6.67
+ippo,uae_weighted,0.4785,0.9571,0.3922,0.9929,-18.04,3.74,-392.52,-7.09
+mappo,flat_shared,0.4558,0.9636,0.4549,0.9863,-0.2,2.36,-483.12,-3.99
+mappo,local_individual,0.431,0.9719,0.4051,0.9884,-6.01,1.7,-12.32,-3.87
+mappo,uae_weighted,0.4304,0.9697,0.4086,0.9937,-5.08,2.48,-444.56,-3.45

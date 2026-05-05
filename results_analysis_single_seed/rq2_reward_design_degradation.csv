@@ -1,0 +1,4 @@
+reward_mode,cost_total,carbon_emissions_total,discomfort_proportion,ramping_average,daily_one_minus_load_factor_average
+flat_shared,-9.535,-9.775,3.835,-14.415,0.055
+local_individual,-11.355,-11.14,2.05,-8.465,2.565
+uae_weighted,-11.56,-11.135,3.11,-9.29,2.52
