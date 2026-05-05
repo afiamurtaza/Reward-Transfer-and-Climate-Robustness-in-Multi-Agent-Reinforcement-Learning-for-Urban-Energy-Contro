@@ -1,4 +1,4 @@
-# Reward Design Transferability Under Climate Shift: Evaluating MARL Energy Controllers in Dubai Desert Weather
+# Reward Transfer and Climate Robustness in Multi-Agent Reinforcement Learning for Urban Energy Control
 
 **Afia Murtaza · Maleeha Fatima · Salam Orabi**
 
